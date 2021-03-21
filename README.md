@@ -1,3 +1,8 @@
+<h1 align="center">⚡ kema-dev ⚡</h1>
+<h3 align="center">42 School student @ Lyon, France</h3>
+
+👥 Cyber-security passionate and high-tech enthusiast
+
 [![jjourdan's 42 stats](https://badge42.herokuapp.com/api/stats/jjourdan?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 Get in touch with me :
