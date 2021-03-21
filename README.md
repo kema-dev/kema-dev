@@ -3,7 +3,7 @@
 
 [![jjourdan's 42 stats](https://badge42.herokuapp.com/api/stats/jjourdan?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.herokuapp.com/api/stats/jjourdan?darkmode=true"></a>
+<a align="center" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.herokuapp.com/api/stats/jjourdan?darkmode=true"></a>
 
 👥 Cyber-security passionate and high-tech enthusiast
 
