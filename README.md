@@ -5,8 +5,7 @@
 
 <p align="center">👥 AI passionate and high-tech enthusiast</p>
 
-<p align="center">My website : <a href="www.kema.dev">kema.dev</a></p>
-
+<p align="center">My website : <a href="https://www.kema.dev">kema.dev</a></p>
 <p align="center">Get in touch with me :</p>
 
 <p align="center"><a href="https://www.linkedin.com/in/jeremy-jourdan-kemadev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
