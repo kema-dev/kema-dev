@@ -5,7 +5,7 @@
 
 <p align="center">👥 AI passionate and high-tech enthusiast</p>
 
-<p align="center">My website : www.kema.dev</p>
+<p align="center">My website : kema.dev</p>
 
 <p align="center">Get in touch with me :</p>
 
