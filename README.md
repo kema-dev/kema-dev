@@ -3,7 +3,9 @@
 
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.herokuapp.com/api/stats/jjourdan?darkmode=true"></a></p>
 
-👥 Cyber-security passionate and high-tech enthusiast
+👥 AI passionate and high-tech enthusiast
+
+My website : www.kema.dev
 
 Get in touch with me :
 
