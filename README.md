@@ -10,4 +10,4 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/jeremy-jourdan-kemadev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
-<p align="center"><a href="mailto:contact@kema.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
+mailto:contact@kemadev.mozmail.com
