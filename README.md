@@ -1,4 +1,4 @@
-<h1 align="center">⚡ kema-dev ⚡</h1>
+<h1 align="center">⚡ kemadev ⚡</h1>
 <h3 align="center">42 School student @ Lyon, France</h3>
 
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42" target="_blank" rel="noopener noreferrer"><img src="https://badge42.herokuapp.com/api/stats/jjourdan?darkmode=true"></a></p>
