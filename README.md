@@ -5,7 +5,7 @@
   </p>
 </h3>
 
-<p align="center">👥 Cyber security passionate and high-tech enthusiast</p>
+<p align="center">👥 Cyber security & AI passionate and high-tech enthusiast</p>
 
 <p align="center">
   <a>
