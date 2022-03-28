@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:zq5mkuqs@duck.com">
+  <a href="mailto:contact@kemadev.fr">
     <img src="https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=ProtonMail&logoColor=white"></img>
   </a>
 </p>
