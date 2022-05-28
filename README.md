@@ -55,6 +55,7 @@
 <img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/python-logo-generic.svg?raw=true" alt="python">
 <img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/numpy_logo_2020.svg?raw=true" alt="numpy">
 <img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/pandas_logo.png?raw=true" alt="pandas">
+<img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/go_logo?raw=true" alt="go">
 <img height="100px" src="https://raw.githubusercontent.com/kema-dev/kema-dev/4cb75b7f4a2bf088c1c259827ef5837504f3f7e6/assets/stackoverflow_logosvg.svg" alt="Stack Overflow">
 </p>
 
