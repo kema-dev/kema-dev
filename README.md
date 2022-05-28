@@ -24,8 +24,11 @@
 </h4>
 
 :white_check_mark: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it. I plan to make a privacy guide soon
+
 :white_check_mark: I am passionate about cyber security and try to be up to date with latests news about it
+
 :white_check_mark: I am also very interested in cryptography and quantum physics
+
 :white_check_mark: I always try to learn new things and improve my skills.
 
 <img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif" width="20px"> ***Some of my projects***
