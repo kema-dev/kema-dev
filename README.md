@@ -20,7 +20,7 @@
 <p align=center>I strongly support open source and <a>there</a> is a list of projects I would like to contribute to</p>
 
 <h4 align=left>
-	<img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif?raw=true" width="20px"> About me
+	<img href="https://raw.githubusercontent.com/kema-dev/kemadev/main/assets/graph.gif" width="20px"> About me
 </h4>
 
 :white_check_mark: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it. I plan to make a privacy guide soon
