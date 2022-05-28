@@ -31,7 +31,7 @@
 
 <p align=center>:white_check_mark: I am also very interested in cryptography and quantum physics</p>
 
-<p align=center>:white_check_mark: I always try to learn new things and improve my skills.</p>
+<p align=center>:white_check_mark: I always try to learn new things and to understand everything deeply</p>
 
 <h2 align=center>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Some of my projects
