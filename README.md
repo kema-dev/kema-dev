@@ -1,5 +1,5 @@
 <p align=center>
-<img src="https://github.com/kema-dev/kemadev/blob/main/assets/ai.gif?raw=true" alt="AI gif">
+<img src="https://github.com/kema-dev/kema-dev/blob/main/assets/ai.gif?raw=true" alt="AI gif">
 </p>
 
 <div align=center>
@@ -12,7 +12,7 @@
 ***
 
 <h2 align=center>
-	<p>Hello <img src="https://github.com/kema-dev/kemadev/blob/main/assets/hi.gif?raw=true" width="30px"> fellow open sourcer !</p>
+	<p>Hello <img src="https://github.com/kema-dev/kema-dev/blob/main/assets/hi.gif?raw=true" width="30px"> fellow open sourcer !</p>
 </h2>
 <h4 align=center>
 	Artifical Intelligence developer | Automation enthusiast
@@ -51,15 +51,15 @@
 </h2>
 
 <p align=center>
-<img height="100px" src="https://github.com/kema-dev/kemadev/blob/main/assets/vscode_logo.svg?raw=true" alt ="VSCode">
-<img height="100px" src="https://github.com/kema-dev/kemadev/blob/main/assets/python-logo-generic.svg?raw=true" alt="python">
-<img height="100px" src="https://github.com/kema-dev/kemadev/blob/main/assets/numpy_logo_2020.svg?raw=true" alt="numpy">
-<img height="100px" src="https://github.com/kema-dev/kemadev/blob/main/assets/pandas_logo.png?raw=true" alt="pandas">
-<img height="100px" src="https://raw.githubusercontent.com/kema-dev/kemadev/4cb75b7f4a2bf088c1c259827ef5837504f3f7e6/assets/stackoverflow_logosvg.svg" alt="Stack Overflow">
+<img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/vscode_logo.svg?raw=true" alt ="VSCode">
+<img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/python-logo-generic.svg?raw=true" alt="python">
+<img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/numpy_logo_2020.svg?raw=true" alt="numpy">
+<img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/pandas_logo.png?raw=true" alt="pandas">
+<img height="100px" src="https://raw.githubusercontent.com/kema-dev/kema-dev/4cb75b7f4a2bf088c1c259827ef5837504f3f7e6/assets/stackoverflow_logosvg.svg" alt="Stack Overflow">
 </p>
 
 <h2 align=center>
-<img src="https://raw.githubusercontent.com/kema-dev/kemadev/main/assets/send.webp" width="30px"> Get in touch with me
+<img src="https://raw.githubusercontent.com/kema-dev/kema-dev/main/assets/send.webp" width="30px"> Get in touch with me
 </h2>
 
 <p align=center>
