@@ -25,25 +25,26 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me
 </h2>
 
-<p align=center>:white_check_mark: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it. I plan to make a privacy guide soon<p>
+<div align=center>
+<p>:white_check_mark: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it. I plan to make a privacy guide soon<p>
 
-<p align=center>:white_check_mark: I am passionate about cyber security and try to be up to date with latests news about it</p>
+<p>:white_check_mark: I am passionate about cyber security and try to be up to date with latests news about it</p>
 
-<p align=center>:white_check_mark: I am also very interested in cryptography and quantum physics</p>
+<p>:white_check_mark: I am also very interested in cryptography and quantum physics</p>
 
-<p align=center>:white_check_mark: I always try to learn new things and to understand everything in depth</p>
+<p>:white_check_mark: I always try to learn new things and to understand everything in depth</p>
+</div>
 
 <h2 align=center>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Some of my projects
 </h2>
 
-<a align=center href="https://github.com/kema-dev/dslr">dslr</a> - Logistical regression and data visualization in python
-
-<a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - A complete website with a multiplayer pong game
-
-<a align=center href="https://github.com/kema-dev/ft_irc">ft_irc</a> - An IRC server in C++
-
-<a align=center href="https://github.com/kema-dev/minishell">minishell</a> - A shell in C
+<div align=center>
+<p><a align=center href="https://github.com/kema-dev/dslr">dslr</a> - Logistical regression and data visualization in python</p>
+<p><a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - A complete website with a multiplayer pong game</p>
+<p><a align=center href="https://github.com/kema-dev/ft_irc">ft_irc</a> - An IRC server in C++</p>
+<p><a align=center href="https://github.com/kema-dev/minishell">minishell</a> - A shell in C</p>
+</div>
 
 <h2 align=center>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My tools
