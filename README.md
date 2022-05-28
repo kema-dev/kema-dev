@@ -17,11 +17,9 @@
 </h4>
 
 <p align=center>I'm currently student @<a href="https://42.fr/">42 school</a> and plan to develop my company <a href="https://github.com/kemadev">kemadev</a></p>
-<p align=center>I strongly support open source and <a>there</a> is a list of projects I would like to contribute to</p>
+<p align=center>I strongly support open source and <a href="https://github.com/kema-dev/awesome-projects">there</a> is a list of projects I would like to contribute to</p>
 
-<h4 align=left>
-	<img href="https://raw.githubusercontent.com/kema-dev/kemadev/main/assets/graph.gif" width="20px"> About me
-</h4>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ***About me***
 
 :white_check_mark: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it. I plan to make a privacy guide soon
 
@@ -31,9 +29,9 @@
 
 :white_check_mark: I always try to learn new things and improve my skills.
 
-<img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif?raw=true" width="20px"> ***Some of my projects***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ***Some of my projects***
 
-<img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif?raw=true" width="20px"> ***My tools***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ***My tools***
 
 <p>
 <img height="100px" src="https://github.com/kema-dev/kemadev/blob/main/assets/vscode_logo.svg?raw=true" alt ="VSCode">
