@@ -37,10 +37,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Some of my projects
 </h2>
 
-* [dslr](https://github.com/kema-dev/dslr) - Logistical regression and data visualization in python
-* [ft_transcendence](https://github.com/kema-dev/ft_transcendence) - A complete website with a multiplayer pong game
-* [ft_irc](https://github.com/kema-dev/ft_irc) - An IRC server in C++
-* [minishell](https://github.com/kema-dev/minishell) - A shell in C
+<a align=center href="https://github.com/kema-dev/dslr">dslr</a> - Logistical regression and data visualization in python
+
+<a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - A complete website with a multiplayer pong game
+
+<a align=center href="https://github.com/kema-dev/ft_irc">ft_irc</a> - An IRC server in C++
+
+<a align=center href="https://github.com/kema-dev/minishell">minishell</a> - A shell in C
 
 <h2 align=center>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My tools
