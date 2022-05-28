@@ -64,8 +64,9 @@
 </h2>
 
 <p align=center>
-<img href="https://kemadev.fr" src="https://img.shields.io/website?down_message=kemadev.fr&up_message=kemadev.fr&url=https%3A%2F%2Fkemadev.fr">
-<img href="mailto:contact@kemadev.fr" src="https://img.shields.io/badge/mail-contact%40kemadev.fr-brightgreen">
+<img href="https://kemadev.fr" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=kemadev.fr&url=https%3A%2F%2Fkemadev.fr">
+<img href="mailto:contact@kemadev.fr" src="https://img.shields.io/badge/mail-contact%40kemadev.fr-blue">
+<img href="https://www.linkedin.com/in/jeremy-jourdan-kemadev/" src="https://img.shields.io/badge/LinkedIn-J%C3%A9r%C3%A9my%20Jourdan-blue">
 </p>
 
 <h6 align=center>
