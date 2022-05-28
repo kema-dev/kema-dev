@@ -10,7 +10,7 @@
 ***
 
 <h2 align=center>
-	<p>Hello <img src="assets/hi.gif" width="30px"> fellow open sourcer !</p>
+	<p>Hello <img src="https://github.com/kema-dev/kemadev/blob/main/assets/hi.gif?raw=true" width="30px"> fellow open sourcer !</p>
 </h2>
 <h4 align=center>
 	Artifical Intelligence developer | Automation enthusiast
@@ -20,7 +20,7 @@
 <p align=center>I strongly support open source and <a>there</a> is a list of projects I would like to contribute to</p>
 
 <h4 align=left>
-	<img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif" width="20px"> About me
+	<img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif?raw=true" width="20px"> About me
 </h4>
 
 :white_check_mark: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it. I plan to make a privacy guide soon
@@ -31,9 +31,9 @@
 
 :white_check_mark: I always try to learn new things and improve my skills.
 
-<img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif" width="20px"> ***Some of my projects***
+<img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif?raw=true" width="20px"> ***Some of my projects***
 
-<img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif" width="20px"> ***My tools***
+<img href="https://github.com/kema-dev/kemadev/blob/main/assets/graph.gif?raw=true" width="20px"> ***My tools***
 
 <p>
 <img height="100px" src="https://github.com/kema-dev/kemadev/blob/main/assets/vscode_logo.svg?raw=true" alt ="VSCode">
