@@ -1,4 +1,6 @@
-<!-- TODO add a header image -->
+<p align=center>
+<img src="https://github.com/kema-dev/kemadev/blob/main/assets/ai.gif?raw=true" alt="AI gif">
+</p>
 
 <div align=center>
 	<img src="https://img.shields.io/badge/Age-25-blue">
