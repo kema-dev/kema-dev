@@ -5,7 +5,7 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Age-25-blue">
 	<img src="https://img.shields.io/badge/Focus-AI%20%2F%20Automation%20%2F%20SysAdmin-brightgreen">
-	<img src="https://img.shields.io/badge/Location-France-brightgreen">
+	<img src="https://img.shields.io/badge/Location-Lyon,%20France-brightgreen">
 	<img src="https://img.shields.io/badge/Languages-French%20%2F%20English-brightgreen">
 </div>
 
@@ -61,7 +61,7 @@
 </p>
 
 <h2 align=center>
-<img src="https://raw.githubusercontent.com/kema-dev/kema-dev/main/assets/more.webp" width="30px"> Useful links
+<img src="https://raw.githubusercontent.com/kema-dev/kema-dev/main/assets/more.webp" width="20px"> Useful links
 </h2>
 
 <p align=center>
