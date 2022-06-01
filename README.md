@@ -38,7 +38,7 @@
 
 <div align=center>
 <p><a align=center href="https://github.com/kema-dev/dslr">dslr</a> - Logistical regression and data visualization in python</p>
-<p><a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - A complete website with a multiplayer pong game in typescript</p>
+<p><a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - A complete website with a multiplayer pong game built with NestJS and Vue.js</p>
 <p><a align=center href="https://github.com/kema-dev/ft_irc">ft_irc</a> - An IRC server in C++</p>
 </div>
 
