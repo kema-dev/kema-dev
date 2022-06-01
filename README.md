@@ -48,12 +48,10 @@
 </h2>
 
 <p align=center>
-<a href="https://code.visualstudio.com/"><img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/vscode_logo.svg?raw=true" alt ="VSCode"></a>
-<a href="https://www.python.org/"><img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/python-logo-generic.svg?raw=true" alt="python"></a>
-<a href="https://numpy.org/"><img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/numpy_logo_2020.svg?raw=true" alt="numpy"></a>
-<a href="https://pandas.pydata.org/"><img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/pandas_logo.png?raw=true" alt="pandas"></a>
-<a href="https://go.dev/"><img height="100px" src="https://github.com/kema-dev/kema-dev/blob/main/assets/go_logo.svg?raw=true" alt="go"></a>
-<a href="https://stackoverflow.com/"><img height="100px" src="https://raw.githubusercontent.com/kema-dev/kema-dev/4cb75b7f4a2bf088c1c259827ef5837504f3f7e6/assets/stackoverflow_logosvg.svg" alt="Stack Overflow"></a>
+<a href="https://numpy.org/"><img height="100vh" src="https://github.com/kema-dev/kema-dev/blob/main/assets/numpy_logo_2020.svg?raw=true" alt="numpy"></a>
+<a href="https://pandas.pydata.org/"><img height="100vh" src="https://github.com/kema-dev/kema-dev/blob/main/assets/pandas_logo.png?raw=true" alt="pandas"></a>
+<a href="https://www.tensorflow.org/"><img height="100vh" src="assets/TF_FullColor_Horizontal.svg"></a>
+<a href="https://keras.io/"><img height="100vh" src="assets/keras_logo.png"></a>
 </p>
 
 <h2 align=center>
