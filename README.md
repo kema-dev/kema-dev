@@ -54,7 +54,7 @@
 </p>
 
 <h2 align=center>
-<img src="https://raw.githubusercontent.com/kema-dev/kema-dev/main/assets/more.webp" height="20px"> Useful links
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px"> Useful links
 </h2>
 
 <p align=center>
