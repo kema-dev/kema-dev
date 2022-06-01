@@ -19,7 +19,7 @@
 <p align=center>Feel free to hit me up for any purpose, it would be a pleasure to me !</p>
 
 <h2 align=center>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px"> About me
+<img src="assets/graph.gif" height="30px"> About me
 </h2>
 
 <div align=center>
@@ -33,7 +33,7 @@
 </div>
 
 <h2 align=center>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px"> Some of my projects
+<img src="assets/graph.gif" height="30px"> Some of my projects
 </h2>
 
 <div align=center>
@@ -43,7 +43,7 @@
 </div>
 
 <h2 align=center>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px"> My tools
+<img src="assets/graph.gif" height="30px"> My tools
 </h2>
 
 <p align=center>
@@ -54,7 +54,7 @@
 </p>
 
 <h2 align=center>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px"> Useful links
+<img src="assets/graph.gif" height="30px"> Useful links
 </h2>
 
 <p align=center>
