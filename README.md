@@ -1,7 +1,3 @@
-<p align=center>
-<img src="https://github.com/kema-dev/kema-dev/blob/main/assets/ai.gif?raw=true" alt="AI gif">
-</p>
-
 <div align=center>
 	<img src="https://img.shields.io/badge/Age-25-blue">
 	<img src="https://img.shields.io/badge/Focus-AI%20%2F%20Automation%20%2F%20SysAdmin-brightgreen">
