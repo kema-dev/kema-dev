@@ -48,7 +48,7 @@
 
 <p align=center>
 <a href="https://numpy.org/"><img height="100vh" src="https://github.com/kema-dev/kema-dev/blob/main/assets/numpy_logo_2020.svg?raw=true" alt="numpy"></a>
-<a href="https://pandas.pydata.org/"><img height="100vh" src="https://github.com/kema-dev/kema-dev/blob/main/assets/pandas_white.svg?raw=true" alt="pandas"></a>
+<a href="https://pandas.pydata.org/"><img height="100vh" src="https://github.com/kema-dev/kema-dev/blob/main/assets/pandas.svg?raw=true" alt="pandas"></a>
 <a href="https://www.tensorflow.org/"><img height="100vh" src="assets/TF_FullColor_Horizontal.svg"></a>
 <a href="https://keras.io/"><img height="100vh" src="assets/keras_logo.png"></a>
 </p>
