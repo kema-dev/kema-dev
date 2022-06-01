@@ -23,7 +23,7 @@
 </h2>
 
 <div align=center>
-<p>:white_check_mark: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it and to recommend them appropriate softwares. I plan to make a privacy guide soon<p>
+<p>:white_check_mark: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it and to recommend them appropriate software. I plan to make a privacy guide soon<p>
 
 <p>:white_check_mark: I am passionate about cyber security and try to be up to date with latests news about it</p>
 
