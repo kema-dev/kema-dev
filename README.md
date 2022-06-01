@@ -60,8 +60,8 @@
 <p align=center>
 <a href="mailto:contact@kemadev.fr" ><img src="https://img.shields.io/badge/mail-contact%40kemadev.fr-blue"></a>
 <a href="https://kemadev.fr"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=kemadev.fr&url=https%3A%2F%2Fkemadev.fr"></a>
-<a href="https://kemadev.fr/wp-content/uploads/2022/05/jeremy_jourdan_resume_francais.pdf"><img src="https://img.shields.io/badge/resume-fran%C3%A7ais-blue"></a>
-<a href="https://kemadev.fr/wp-content/uploads/2022/05/jeremy_jourdan_resume_english.pdf"><img src="https://img.shields.io/badge/resume-english-blue"></a>
+<a href="https://kemadev.fr/wp-content/uploads/2022/06/jeremy_jourdan_resume_francais.pdf"><img src="https://img.shields.io/badge/resume-fran%C3%A7ais-blue"></a>
+<a href="https://kemadev.fr/wp-content/uploads/2022/06/jeremy_jourdan_resume_english.pdf"><img src="https://img.shields.io/badge/resume-english-blue"></a>
 <a href="https://www.linkedin.com/in/jeremy-jourdan-kemadev/"><img src="https://img.shields.io/badge/LinkedIn-J%C3%A9r%C3%A9my%20Jourdan-blue"></a>
 </p>
 
