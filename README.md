@@ -12,7 +12,7 @@
 ***
 
 <h2 align=center>
-	<p>Hello <img src="https://github.com/kema-dev/kema-dev/blob/main/assets/hi.gif?raw=true" width="30px"> fellow open sourcer !</p>
+	<p>Hello <img src="https://github.com/kema-dev/kema-dev/blob/main/assets/hi.gif?raw=true" height="30px"> fellow open sourcer !</p>
 </h2>
 <h4 align=center>
 	Artifical Intelligence developer | Automation enthusiast
@@ -23,7 +23,7 @@
 <p align=center>Feel free to hit me up for any purpose, it would be a pleasure to me !</p>
 
 <h2 align=center>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px"> About me
 </h2>
 
 <div align=center>
@@ -37,7 +37,7 @@
 </div>
 
 <h2 align=center>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Some of my projects
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px"> Some of my projects
 </h2>
 
 <div align=center>
@@ -48,7 +48,7 @@
 </div>
 
 <h2 align=center>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My tools
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px"> My tools
 </h2>
 
 <p align=center>
@@ -61,7 +61,7 @@
 </p>
 
 <h2 align=center>
-<img src="https://raw.githubusercontent.com/kema-dev/kema-dev/main/assets/more.webp" width="20px"> Useful links
+<img src="https://raw.githubusercontent.com/kema-dev/kema-dev/main/assets/more.webp" height="20px"> Useful links
 </h2>
 
 <p align=center>
