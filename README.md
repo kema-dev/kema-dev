@@ -1,6 +1,6 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Age-25-blue">
-	<img src="https://img.shields.io/badge/Focus-AI%20%2F%20Automation%20%2F%20SysAdmin-brightgreen">
+	<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%2F%20SysAdmin%20%2F%20Automation-brightgreen">
 	<img src="https://img.shields.io/badge/Location-Lyon,%20France-brightgreen">
 	<img src="https://img.shields.io/badge/Languages-French%20%2F%20English-brightgreen">
 </div>
@@ -11,12 +11,12 @@
 	<p>Hello <img src="https://github.com/kema-dev/kema-dev/blob/main/assets/hi.gif?raw=true" width="30vh" height="30vw"> fellow open sourcer !</p>
 </h2>
 <h4 align=center>
-	Artifical Intelligence developer | Automation enthusiast
+	Information security analyst | Automation enthusiast
 </h4>
 
 <p align=center>I'm currently student <a href="https://42.fr/">@42 school</a> and plan to develop my company <a href="https://github.com/kemadev">kemadev</a></p>
 <p align=center>I strongly support open source and <a href="https://github.com/kema-dev/awesome-projects">there</a> is a list of projects I would like to contribute to</p>
-<p align=center>Feel free to hit me up for any purpose, it would be a pleasure to me !</p>
+<p align=center>Feel free to <a href="mailto:contact@kemadev.fr" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
 
 <h2 align=center>
 <img src="assets/graph.gif" width="30vh" height="30vw"> About me
@@ -37,9 +37,9 @@
 </h2>
 
 <div align=center>
-<p><a align=center href="https://github.com/kema-dev/dslr">dslr</a> - Logistical regression and data visualization in python</p>
+<p><a align=center href="https://github.com/kema-dev/snow-crash">snow-crash</a> - Privilege escalation exercices on a system image</p>
 <p><a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - A complete website with a multiplayer pong game built with NestJS and Vue.js</p>
-<p><a align=center href="https://github.com/kema-dev/ft_irc">ft_irc</a> - An IRC server in C++</p>
+<p><a align=center href="https://github.com/kema-dev/ft_irc">ft_irc</a> - An entire IRC server written in C++</p>
 </div>
 
 <h2 align=center>
@@ -66,5 +66,5 @@
 </p>
 
 <h6 align=center>
-AI is a tool. The choice about how it gets deployed is ours. – Oren Etzioni
+“It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.” ― Stephane Nappo
 </h6>
