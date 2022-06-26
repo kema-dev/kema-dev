@@ -11,7 +11,7 @@
 	<p>Hello <img src="https://github.com/kema-dev/kema-dev/blob/main/assets/hi.gif?raw=true" width="30vh" height="30vw"> fellow open sourcer !</p>
 </h2>
 <h4 align=center>
-	Information security analyst | Automation enthusiast
+	Cyber security analyst | Automation enthusiast
 </h4>
 
 <p align=center>I'm currently student <a href="https://42.fr/">@42 school</a> and plan to develop my company <a href="https://github.com/kemadev">kemadev</a></p>
@@ -43,25 +43,14 @@
 </div>
 
 <h2 align=center>
-<img src="assets/graph.gif" width="30vh" height="30vw"> My tools
-</h2>
-
-<p align=center>
-<a href="https://numpy.org/"><img height="100vh" src="https://github.com/kema-dev/kema-dev/blob/main/assets/numpy_logo_2020.svg?raw=true" alt="numpy"></a>
-<a href="https://pandas.pydata.org/"><img height="100vh" src="https://github.com/kema-dev/kema-dev/blob/main/assets/pandas.svg?raw=true" alt="pandas"></a>
-<a href="https://www.tensorflow.org/"><img height="100vh" src="assets/TF_FullColor_Horizontal.svg"></a>
-<a href="https://keras.io/"><img height="100vh" src="assets/keras_logo.png"></a>
-</p>
-
-<h2 align=center>
 <img src="assets/graph.gif" width="30vh" height="30vw"> Useful links
 </h2>
 
 <p align=center>
 <a href="mailto:contact@kemadev.fr" ><img src="https://img.shields.io/badge/mail-contact%40kemadev.fr-blue"></a>
 <a href="https://kemadev.fr"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=kemadev.fr&url=https%3A%2F%2Fkemadev.fr"></a>
-<a href="https://kemadev.fr/wp-content/uploads/2022/06/jeremy_jourdan_resume_francais.pdf"><img src="https://img.shields.io/badge/resume-fran%C3%A7ais-blue"></a>
-<a href="https://kemadev.fr/wp-content/uploads/2022/06/jeremy_jourdan_resume_english.pdf"><img src="https://img.shields.io/badge/resume-english-blue"></a>
+<a href="https://kemadev.fr/wp-content/uploads/2022/06/jeremy_jourdan_resume_secu_francais.pdf"><img src="https://img.shields.io/badge/resume-fran%C3%A7ais-blue"></a>
+<a href="https://kemadev.fr/wp-content/uploads/2022/06/jeremy_jourdan_resume_secu_english.pdf"><img src="https://img.shields.io/badge/resume-english-blue"></a>
 <a href="https://www.linkedin.com/in/jeremy-jourdan-kemadev/"><img src="https://img.shields.io/badge/LinkedIn-J%C3%A9r%C3%A9my%20Jourdan-blue"></a>
 </p>
 
