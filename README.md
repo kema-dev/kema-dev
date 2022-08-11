@@ -1,6 +1,6 @@
 <div align=center>
 	<img src="https://img.shields.io/badge/Age-25-blue">
-	<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%2F%20SysAdmin%20%2F%20Automation-brightgreen">
+	<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%2F%20Privacy-brightgreen">
 	<img src="https://img.shields.io/badge/Location-Lyon,%20France-brightgreen">
 	<img src="https://img.shields.io/badge/Languages-French%20%2F%20English-brightgreen">
 </div>
@@ -11,7 +11,7 @@
 	<p>Hello <img src="https://github.com/kema-dev/kema-dev/blob/main/assets/hi.gif?raw=true" width="30vh" height="30vw"> fellow open sourcer !</p>
 </h2>
 <h4 align=center>
-	Cyber security analyst | Automation enthusiast
+	Cyber security | Automation
 </h4>
 
 <p align=center>I'm currently student <a href="https://42.fr/">@42 school</a> and plan to develop my company <a href="https://github.com/kemadev">kemadev</a></p>
