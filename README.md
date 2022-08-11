@@ -19,7 +19,7 @@
 <p align=center>Feel free to <a href="mailto:contact@kemadev.fr" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
 
 <h2 align=center>
-<img src="assets/graph.gif" width="30vh" height="30vw"> About me
+:point_right: About me
 </h2>
 
 <div align=center>
@@ -33,17 +33,15 @@
 </div>
 
 <h2 align=center>
-<img src="assets/graph.gif" width="30vh" height="30vw"> Some of my projects
+:triangular_flag_on_post: Some of my projects
 </h2>
 
 <div align=center>
 <p><a align=center href="https://github.com/kema-dev/snow-crash">snow-crash</a> - Privilege escalation exercices on a system image</p>
-<p><a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - A complete website with a multiplayer pong game built with NestJS and Vue.js</p>
-<p><a align=center href="https://github.com/kema-dev/ft_irc">ft_irc</a> - An entire IRC server written in C++</p>
 </div>
 
 <h2 align=center>
-<img src="assets/graph.gif" width="30vh" height="30vw"> Useful links
+:computer: Useful links
 </h2>
 
 <p align=center>
