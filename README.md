@@ -8,28 +8,30 @@
 ***
 
 <h2 align=center>
-	<p>Hello <img src="https://github.com/kema-dev/kema-dev/blob/main/assets/hi.gif?raw=true" width="30vh" height="30vw"> fellow open sourcer !</p>
+	<p><img src="https://github.com/kema-dev/kema-dev/blob/main/assets/hi.gif?raw=true" width="30vh" height="30vw"> Hello fellow open sourcer !</p>
 </h2>
 <h4 align=center>
 	Cyber security | Automation
 </h4>
 
-<p align=center>I'm currently student <a href="https://42.fr/">@42 school</a> and plan to develop my company <a href="https://github.com/kemadev">kemadev</a></p>
-<p align=center>I strongly support open source and <a href="https://github.com/kema-dev/awesome-projects">there</a> is a list of projects I would like to contribute to</p>
-<p align=center>Feel free to <a href="mailto:contact@kemadev.fr" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
+<div align=center>
+<p>:mortar_board: I'm currently student <a href="https://42.fr/">@42 school</a> and plan to develop my company <a href="https://github.com/kemadev">kemadev</a></p>
+<p>:revolving_hearts: I strongly support open source and <a href="https://github.com/kema-dev/awesome-projects">there</a> is a list of projects I would like to contribute to</p>
+<p>:postbox: Feel free to <a href="mailto:contact@kemadev.fr" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
+</div>
 
 <h2 align=center>
 :point_right: About me
 </h2>
 
 <div align=center>
-<p>:white_check_mark: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it and to recommend them appropriate software. I plan to make a privacy guide in the future<p>
+<p>:eyes: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it and to recommend them appropriate software. I plan to make a privacy guide in the future<p>
 
-<p>:white_check_mark: I am passionate about cyber security and try to be up to date with latests news about it</p>
+<p>:honey_pot: I am passionate about cyber security and try to be up to date with latests news about it</p>
 
-<p>:white_check_mark: I am also very interested in cryptography and quantum physics</p>
+<p>:closed_lock_with_key: I am also very interested in cryptography and quantum physics</p>
 
-<p>:white_check_mark: I always try to learn new things and to understand everything in depth</p>
+<p>:memo: I always try to learn new things and to understand everything in depth</p>
 </div>
 
 <h2 align=center>
@@ -37,7 +39,7 @@
 </h2>
 
 <div align=center>
-<p><a align=center href="https://github.com/kema-dev/snow-crash">snow-crash</a> - Privilege escalation exercices on a system image</p>
+<p>:seedling: <a align=center href="https://github.com/kema-dev/snow-crash">snow-crash</a> - Privilege escalation exercices on a system image</p>
 </div>
 
 <h2 align=center>
