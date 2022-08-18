@@ -8,7 +8,7 @@
 ***
 
 <h2 align=center>
-	<p><img src="https://github.com/kema-dev/kema-dev/blob/main/assets/hi.gif?raw=true" width="30vh" height="30vw"> Hello fellow open sourcer !</p>
+	<p>:wave: Hello fellow open sourcer !</p>
 </h2>
 <h4 align=center>
 	Cyber security | Automation
