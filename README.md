@@ -35,11 +35,13 @@
 </div>
 
 <h2 align=center>
-:triangular_flag_on_post: Some of my projects
+:floppy_disk: Some of my projects
 </h2>
 
 <div align=center>
-<p>:seedling: <a align=center href="https://github.com/kema-dev/snow-crash">snow-crash</a> - Privilege escalation exercices on a system image</p>
+<p>:triangular_flag_on_post: <a align=center href="https://github.com/kema-dev/snow-crash">snow-crash</a> - Privilege escalation exercices on a system image</p>
+<p>:books: <a align=center href="https://github.com/kema-dev/ft_containers">ft_containers</a> - C++ STL containers, recoded in C++</p>
+<p>:key: <a align=center href="https://github.com/kema-dev/json_crypt">json_crypt</a> - Python script to encrypt a json file's values using AES-256-CBC</p>
 </div>
 
 <h2 align=center>
