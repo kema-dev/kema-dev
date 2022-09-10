@@ -42,7 +42,7 @@
 <p>:triangular_flag_on_post: <a align=center href="https://github.com/kema-dev/snow-crash">snow-crash</a> - Privilege escalation exercices on a system image</p>
 <p>:books: <a align=center href="https://github.com/kema-dev/ft_containers">ft_containers</a> - C++ STL containers, recoded in C++</p>
 <p>:key: <a align=center href="https://github.com/kema-dev/json_crypt">json_crypt</a> - Python script to encrypt / decrypt a json file's values using AES-256-CBC</p>
-<p>:whale: <a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - A Docker powered website with a custom pong-like game</p>
+<p>:whale: <a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - Docker powered website hosting a custom pong-like game</p>
 </div>
 
 <h2 align=center>
