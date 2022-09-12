@@ -17,7 +17,7 @@
 <div align=center>
 <p>:mortar_board: I'm currently student <a href="https://42.fr/">@42 school</a> and plan to develop my company <a href="https://github.com/kemadev">kemadev</a></p>
 <p>:revolving_hearts: I strongly support open source and <a href="https://github.com/kema-dev/awesome-projects">there</a> is a list of projects I would like to contribute to</p>
-<p>:postbox: Feel free to <a href="mailto:contact@kemadev.fr" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
+<p>:postbox: Feel free to <a href="https://signal.me/#p/+33672191592" >hit me up on Signal</a> for any purpose, it would be a pleasure to me !</p>
 </div>
 
 <h2 align=center>
