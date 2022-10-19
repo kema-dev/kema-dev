@@ -59,3 +59,9 @@
 <h6 align=center>
 “It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.” ― Stephane Nappo
 </h6>
+
+<div align=center>
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kema-dev)](https://github.com/LordDashMe/github-contribution-stats/)
+
+</div>
