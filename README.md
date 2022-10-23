@@ -15,8 +15,8 @@
 </h4>
 
 <div align=center>
-<p>:mortar_board: I'm currently student <a href="https://42.fr/">@42 school</a> and plan to develop my company <a href="https://github.com/kemadev">kemadev</a></p>
-<p>:revolving_hearts: I strongly support open source and <a href="https://github.com/kema-dev/awesome-projects">there</a> is a list of projects I would like to contribute to</p>
+<p>:mortar_board: Currently student <a href="https://42.fr/">@42 school</a></p>
+<p>:revolving_hearts: Heavy open source supporter, <a href="https://github.com/kema-dev/awesome-projects">there</a> is a list of projects I would like to contribute to</p>
 <p>:postbox: Feel free to <a href="https://signal.me/#p/+33672191592" >hit me up on Signal</a> for any purpose, it would be a pleasure to me !</p>
 </div>
 
@@ -25,7 +25,7 @@
 </h2>
 
 <div align=center>
-<p>:eyes: Privacy is a very big concern for me, I try to make people aware of the importance of preserving it and to recommend them appropriate software. I plan to make a privacy guide in the future<p>
+<p>:eyes: Privacy is very important to me, I try to make people aware of the importance of preserving it and to recommend them appropriate software<p>
 
 <p>:honey_pot: I am passionate about cyber security and try to be up to date with latests news about it</p>
 
