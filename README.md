@@ -11,7 +11,7 @@
 	<p>:wave: Hello fellow open sourcer !</p>
 </h2>
 <h4 align=center>
-	Cyber security | Automation
+	Automation | Cyber security
 </h4>
 
 <div align=center>
