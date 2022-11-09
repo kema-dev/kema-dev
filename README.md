@@ -17,7 +17,7 @@
 <div align=center>
 <p>:mortar_board: Student <a href="https://42.fr/">@42 school</a></p>
 <p>:revolving_hearts: Avid open source supporter</p>
-<p>:postbox: Feel free to <a href="https://signal.me/#p/+33672191592" >hit me up on Signal</a> for any purpose, it would be a pleasure to me !</p>
+<p>:postbox: Feel free to <a href="mailto:git@kemadev.fr" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
 </div>
 
 <h2 align=center>
