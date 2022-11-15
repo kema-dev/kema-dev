@@ -1,6 +1,6 @@
 <div align=center>
 	<a href ="https://github.com/kema-dev"><img src="https://img.shields.io/badge/Age-25-blue"></a>
-	<a href ="https://github.com/kema-dev"><img src="https://img.shields.io/badge/Focus-DevOps%20%2F%20Cybersecurity%20%2F%20Privacy-brightgreen"></a>
+	<a href ="https://github.com/kema-dev"><img src="https://img.shields.io/badge/Focus-DevSecOps%20%2F%20Privacy-brightgreen"></a>
 	<a href ="https://github.com/kema-dev"><img src="https://img.shields.io/badge/Location-Lyon,%20France-brightgreen"></a>
 	<a href ="https://github.com/kema-dev"><img src="https://img.shields.io/badge/Languages-French%20%2F%20English-brightgreen"></a>
 </div>
