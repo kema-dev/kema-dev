@@ -40,7 +40,7 @@
 
 <div align=center>
 <p>:wrench: <a align=center href="https://github.com/kema-dev/dotfiles_public">dotfiles_public</a> - My development environment setup automated with ansible</p>
-<p>:whale: <a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - Docker powered website hosting a custom pong-like game</p>
+<p>:whale: <a align=center href="https://github.com/kema-dev/ft_transcendence">ft_transcendence</a> - Docker powered website hosting a custom pong-like game written with NestJS and Vue.js</p>
 <p>:triangular_flag_on_post: <a align=center href="https://github.com/kema-dev/snow-crash">snow-crash</a> - Privilege escalation exercices on a system image</p>
 <p>:key: <a align=center href="https://github.com/kema-dev/json_crypt">json_crypt</a> - Python script to encrypt / decrypt a json file's values using AES-256-CBC</p>
 <p>:books: <a align=center href="https://github.com/kema-dev/ft_containers">ft_containers</a> - C++ STL containers, recoded in C++</p>
