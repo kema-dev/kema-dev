@@ -1,12 +1,3 @@
-<div align=center>
-	<a href ="https://github.com/kema-dev"><img src="https://img.shields.io/badge/Age-25-blue"></a>
-	<a href ="https://github.com/kema-dev"><img src="https://img.shields.io/badge/Focus-DevSecOps%20%2F%20Privacy-brightgreen"></a>
-	<a href ="https://github.com/kema-dev"><img src="https://img.shields.io/badge/Location-Lyon,%20France-brightgreen"></a>
-	<a href ="https://github.com/kema-dev"><img src="https://img.shields.io/badge/Languages-French%20%2F%20English-brightgreen"></a>
-</div>
-
-***
-
 <h2 align=center>
 	<p>:wave: Hello fellow open sourcer !</p>
 </h2>
@@ -15,8 +6,8 @@
 </h4>
 
 <div align=center>
-<p>:mortar_board: Student <a href="https://42.fr/">@42 school</a></p>
-<p>:revolving_hearts: Open source supporter</p>
+<p>:house_with_garden: From <a href="https://42.fr/">@42 school</a>, currently SysAdmin / DevOps <a href="https://www.wanadev.com/">@Wanadev</a></p>
+<p>:octocat: Open source supporter</p>
 <p>:postbox: Feel free to <a href="mailto:git@kemadev.fr" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
 </div>
 
@@ -27,7 +18,7 @@
 <div align=center>
 <p>:eyes: Privacy is very important to me, I try to make people aware of the importance of preserving it and to recommend them appropriate software<p>
 
-<p>:honey_pot: I am passionate about cyber security and try to be up to date with latests news about it</p>
+<p>:honey_pot: Passionate about cyber security, I try to be up to date with latests news about it</p>
 
 <p>:closed_lock_with_key: I am also very interested in cryptography and quantum physics</p>
 
@@ -60,9 +51,3 @@
 <h6 align=center>
 “It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.” ― Stephane Nappo
 </h6>
-
-<div align=center>
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kema-dev)](https://github.com/LordDashMe/github-contribution-stats/)
-
-</div>
