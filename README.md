@@ -18,7 +18,7 @@
 <div align=center>
 <p>:eyes: Privacy is very important to me, I try to make people aware of the importance of preserving it and to recommend them appropriate software<p>
 
-<p>:honey_pot: Passionate about cyber security, I try to be up to date with latests news about it</p>
+<p>:honey_pot: Passionate about cyber security, I try to be up to date with latest news about it</p>
 
 <p>:closed_lock_with_key: I am also very interested in cryptography and quantum physics</p>
 
