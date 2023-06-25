@@ -6,7 +6,7 @@
 </h4>
 
 <div align=center>
-<p>:house_with_garden: SysAdmin / DevOps <a href="https://www.wanadev.com/">@Wanadev</a>, from <a href="https://42.fr/">@42 school</a></p>
+<p>:house_with_garden: DevOps / SysAdmin <a href="https://www.wanadev.com/">@Wanadev</a>, from <a href="https://42.fr/">@42 school</a></p>
 <p>:octocat: Open source supporter</p>
 <p>:postbox: Feel free to <a href="mailto:git@kemadev.fr" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
 </div>
