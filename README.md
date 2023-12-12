@@ -4,7 +4,7 @@
 <br>
 
 <div align=center>
-	<p>:house_with_garden: DevOps / SysAdmin <a href="https://www.wanadev.com/">@Wanadev</a>, from <a href="https://42.fr/">@42 school</a></p>
+	<p>:house_with_garden: Cloud / DevOps <a href="https://keyrus.com/">@Keyrus</a>, from <a href="https://42.fr/">@42 school</a></p>
 	<p>:octocat: Open source supporter</p>
 	<p>☁️ High-tech passionate and cloud technologies enthusiast</p>
 </div>
