@@ -23,7 +23,7 @@
 </h2>
 
 <p align=center>
-	<a href="mailto:github@kema.dev" ><img src="https://img.shields.io/badge/mail-git%40kemadev.fr-blue"></a>
+	<a href="mailto:github@kema.dev"><img src="https://img.shields.io/badge/mail-github%40kema.dev-blue"></a>
 	<a href="https://www.kemadev.fr/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=kemadev.fr&url=https%3A%2F%2Fwww.kemadev.fr/"></a>
 	<a href="https://www.kemadev.fr/en/resume"><img src="https://img.shields.io/badge/resume-pdf-blue"></a>
 	<a href="https://www.linkedin.com/in/jeremy-jourdan-kemadev/"><img src="https://img.shields.io/badge/LinkedIn-profile-blue"></a>
