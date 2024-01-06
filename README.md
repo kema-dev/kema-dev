@@ -15,7 +15,7 @@
 
 <div align=center>
 	<p>:closed_lock_with_key: Passionate about cyber security, <a href="https://www.root-me.org/wowz">playing some CTF</a></p>
-	<p>:postbox: Feel free to <a href="mailto:git@kemadev.fr" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
+	<p>:postbox: Feel free to <a href="mailto:github@kema.dev" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
 </div>
 
 <h2 align=center>
