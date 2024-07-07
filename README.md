@@ -6,7 +6,7 @@
 <div align=center>
 	<p>:house_with_garden: Freelancer - AWS & DevOps Consultant <a href="https://keyrus.com/">@BedrockStreaming</a>, from <a href="https://42.fr/">@42 school</a></p>
 	<p>:octocat: Open source supporter</p>
-	<p>☁️ High-tech passionate and cloud technologies enthusiast</p>
+	<p>☁️ High-tech passionate and Cloud technologies enthusiast</p>
 </div>
 
 <h2 align=center>
