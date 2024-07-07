@@ -1,10 +1,10 @@
 <h2 align=center>:wave: Hello fellow open sourcer !</h2>
-<h4 align=center>:cloud: Cloud / DevOps / Cybersecurity</h4>
+<h4 align=center>:cloud: Cloud / DevSecOps</h4>
 
 <br>
 
 <div align=center>
-	<p>:house_with_garden: Freelancer - Cloud Architect AWS <a href="https://keyrus.com/">@BedrockStreaming</a>, from <a href="https://42.fr/">@42 school</a></p>
+	<p>:house_with_garden: Freelancer - AWS & DevOps Consultant <a href="https://keyrus.com/">@BedrockStreaming</a>, from <a href="https://42.fr/">@42 school</a></p>
 	<p>:octocat: Open source supporter</p>
 	<p>☁️ High-tech passionate and cloud technologies enthusiast</p>
 </div>
