@@ -19,7 +19,7 @@
 </div>
 
 <h2 align=center>
-	:computer: Useful links
+	:computer: Links
 </h2>
 
 <p align=center>
