@@ -1,5 +1,5 @@
 <h2 align=center>:wave: Hello fellow open sourcer !</h2>
-<h4 align=center>:cloud: Cloud / DevSecOps</h4>
+<h4 align=center>:cloud: Kubernetes / DevSecOps</h4>
 
 <br>
 
