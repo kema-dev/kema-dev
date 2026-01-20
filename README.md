@@ -15,7 +15,6 @@
 
 <div align=center>
 	<p>:closed_lock_with_key: Passionate about cyber security, <a href="https://www.root-me.org/wowz">playing some CTF</a></p>
-	<p>:postbox: Feel free to <a href="mailto:github@kema.dev" >hit me up</a> for any purpose, it would be a pleasure to me !</p>
 </div>
 
 <h2 align=center>
@@ -23,8 +22,6 @@
 </h2>
 
 <p align=center>
-	<a href="mailto:github@kema.dev"><img src="https://img.shields.io/badge/mail-github%40kema.dev-blue"></a>
-	<a href="https://www.kemadev.fr/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=kemadev.fr&url=https%3A%2F%2Fwww.kemadev.fr/"></a>
 	<a href="https://www.linkedin.com/in/jeremy-jourdan-kemadev/"><img src="https://img.shields.io/badge/LinkedIn-profile-blue"></a>
 </p>
 
