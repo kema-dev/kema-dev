@@ -1,30 +1,14 @@
-<h2 align=center>:wave: Hello fellow open sourcer !</h2>
-<h4 align=center>:cloud: Kubernetes / DevSecOps</h4>
+> My work moved to Codeberg, here is [my profile](https://codeberg.org/kema)!
 
-<br>
+:point_right: Just an Open Source supporter who builds Kubernetes & Go based services!
 
-<div align=center>
-	<p>:house_with_garden: Freelancer, from <a href="https://42.fr/">@42 school</a></p>
-	<p>:octocat: Open source supporter</p>
-	<p>☁️ High-tech passionate and Cloud technologies enthusiast</p>
-</div>
+Projects:
 
-<h2 align=center>
-	:point_right: About me
-</h2>
+- [kmicro - The lightweight microservice framework for Go](https://codeberg.org/kema/kmicro)
 
-<div align=center>
-	<p>:closed_lock_with_key: Passionate about cyber security, <a href="https://www.root-me.org/wowz">playing some CTF</a></p>
-</div>
+Links:
 
-<h2 align=center>
-	:computer: Links
-</h2>
+- [LinkedIn](https://www.linkedin.com/in/jeremy-jourdan-kemadev)
+- [Root Me](https://www.root-me.org/wowz)
 
-<p align=center>
-	<a href="https://www.linkedin.com/in/jeremy-jourdan-kemadev/"><img src="https://img.shields.io/badge/LinkedIn-profile-blue"></a>
-</p>
-
-<h6 align=center>
-	“It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.” ― Stephane Nappo
-</h6>
+> "It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it." - Stephane Nappo
