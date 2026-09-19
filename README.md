@@ -1,10 +1,4 @@
-> My work moved to Codeberg, here is [my profile](https://codeberg.org/kema)!
-
 :point_right: Just an Open Source supporter who builds Kubernetes & Go based services!
-
-Projects:
-
-- [kmicro - The lightweight microservice framework for Go](https://codeberg.org/kema/kmicro)
 
 Links:
 
